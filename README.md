@@ -48,7 +48,7 @@ A unique feature of this application is the **Safe Route Navigation System**, wh
 
 ---
 
-## 📸 Screenshots (Optional)
+## 📸 Screenshots
 
 <img width="277" height="566" alt="image" src="https://github.com/user-attachments/assets/933add4b-7924-4862-a151-1462ea1b607e" />
 <img width="279" height="569" alt="image" src="https://github.com/user-attachments/assets/a29365c7-df0e-4e2d-a2d3-9df3e71cba82" />
