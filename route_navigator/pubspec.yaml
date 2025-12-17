@@ -1,0 +1,21 @@
+name: safe_route_navigation
+description: A Flutter app to navigate safely using real-time weather.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_map: ^6.0.0
+  latlong2: ^0.9.0
+  geolocator: ^10.1.0
+  geocoding: ^2.0.5
+  flutter_typeahead: ^4.1.1
+  http: ^1.2.1  # ✅ Updated
+  flutter_keyboard_visibility: ^5.4.1
+
+
+flutter:
+  uses-material-design: true
